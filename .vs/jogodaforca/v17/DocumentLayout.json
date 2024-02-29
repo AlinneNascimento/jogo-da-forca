@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9EE2B237-AD83-445D-B334-3C2A6D36DDAF}|jogodaforca.vcxproj|C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9EE2B237-AD83-445D-B334-3C2A6D36DDAF}|jogodaforca.vcxproj|solutionrelative:forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE2B237-AD83-445D-B334-3C2A6D36DDAF}|jogodaforca.vcxproj|C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\palavras.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EE2B237-AD83-445D-B334-3C2A6D36DDAF}|jogodaforca.vcxproj|solutionrelative:palavras.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "palavras.txt",
+              "DocumentMoniker": "C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\palavras.txt",
+              "RelativeDocumentMoniker": "palavras.txt",
+              "ToolTip": "C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\palavras.txt",
+              "RelativeToolTip": "palavras.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-29T13:01:11.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "forca.cpp",
               "DocumentMoniker": "C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\forca.cpp",
               "RelativeDocumentMoniker": "forca.cpp",
               "ToolTip": "C:\\Users\\alinn\\TG18\\C\u002B\u002B\\jogodaforca\\forca.cpp",
               "RelativeToolTip": "forca.cpp",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-28T12:02:03.768Z",
               "EditorCaption": ""
